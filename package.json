@@ -1,0 +1,22 @@
+{
+  "name": "acroniapi",
+  "version": "1.0.0",
+  "description": "The API with everything about Acronical",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AcronicalYT/AcroniAPI.git"
+  },
+  "author": "Acronical",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AcronicalYT/AcroniAPI/issues"
+  },
+  "homepage": "https://github.com/AcronicalYT/AcroniAPI#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
