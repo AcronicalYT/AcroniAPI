@@ -4,6 +4,7 @@ const PORT = 3001;
 const cors = require('cors');
 const data = require('./json/default.json');
 const projects = require('./json/projects.json');
+const experience = require('./json/experience.json');
 
 app.use(cors());
 
@@ -13,6 +14,10 @@ app.get('/', (req, res) => {
 
 app.get('/projects', (req, res) => {
     res.json(projects);
+});
+
+app.get('/experience', (req, res) => {
+    res.json(data.experience);
 });
 
 app.listen(PORT, () => {

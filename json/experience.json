@@ -1,0 +1,86 @@
+{
+  "yrrah": {
+    "entity": "Yrrah",
+    "description": "Currently the Head Admin of his Discord server, Moderator for streams, and developed a custom bot for his server.",
+    "start": "2021",
+    "end": "Present",
+    "left": false,
+    "images": {
+      "logo": "https://photos.acronical.uk/images/2024/12/09/yrrah-icon.png",
+      "banner": "https://photos.acronical.uk/images/2024/12/09/yrrah-bg.jpg"
+    },
+    "link": "https://www.yrrah.live"
+  },
+  "colopsal": {
+    "entity": "Colopsal",
+    "description": "Currently an Admin in his dormant Discord server, and a good friend.",
+    "start": "2021",
+    "end": "Present",
+    "left": false,
+    "images": {
+      "logo": "https://photos.acronical.uk/images/2024/12/09/colopsal-icon.jpg",
+      "banner": "https://photos.acronical.uk/images/2024/12/09/colopsal-bg.jpg"
+    },
+    "link": "https://www.youtube.com/@colopsal"
+  },
+  "meyerhold": {
+    "entity": "Meyerhold",
+    "description": "Currently a Moderator in his Twitch channel, and an Admin in his Discord server.",
+    "start": "2024",
+    "end": "Present",
+    "left": false,
+    "images": {
+      "logo": "https://photos.acronical.uk/images/2024/12/09/meyerhold-icon.png",
+      "banner": null
+    },
+    "link": "https://www.twitch.tv/ivanmeyerhold"
+  },
+  "0nlyjuan": {
+    "entity": "0nlyJuan",
+    "description": "Currently an Admin in his dormant Discord server, around when he was active.",
+    "start": "2021",
+    "end": "Present",
+    "left": false,
+    "images": {
+      "logo": "https://photos.acronical.uk/images/2024/12/09/juan-icon.jpg",
+      "banner": "https://photos.acronical.uk/images/2024/12/09/juan-bg.jpg"
+    },
+    "link": "https://www.linktr.ee/0nlyJuan"
+  },
+  "nocware": {
+    "entity": "Nocware",
+    "description": "Discord bot developer to add custom features for them.",
+    "start": "2024",
+    "end": "Present",
+    "left": false,
+    "images": {
+      "logo": "https://photos.acronical.uk/images/2024/12/09/nocware-icon.webp",
+      "banner": null
+    },
+    "link": "https://liinks.co/elijahfinn"
+  },
+  "feather": {
+    "entity": "Feather",
+    "description": "Currently a Jr. Admin & Mentor at the staff team for Feather Client.",
+    "start": "2024",
+    "end": "Present",
+    "left": false,
+    "images": {
+      "logo": "https://photos.acronical.uk/images/2024/12/09/feather-icon.png",
+      "banner": "https://photos.acronical.uk/images/2024/12/09/feather-bg.png"
+    },
+    "link": "https://www.feathermc.com"
+  },
+  "playhire": {
+    "entity": "PlayHire",
+    "description": "Currently a Moderator in his Twitch channel, and an Admin in his Discord server.",
+    "start": "2024",
+    "end": "Present",
+    "left": false,
+    "images": {
+      "logo": "https://photos.acronical.uk/images/2024/12/09/playhire-icon.png",
+      "banner": "https://photos.acronical.uk/images/2024/12/09/playhire-bg.png"
+    },
+    "link": "https://www.discord.gg/pzWrmVXmTM"
+  }
+}
