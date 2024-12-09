@@ -10,6 +10,12 @@
     "download": {
       "has": true,
       "url": "https://dev.bukkit.org/projects/minecraft-but-you-cant-touch-common-blocks/files/latest"
+    },
+    "image": {
+      "has": false
+    },
+    "invite": {
+      "has": false
     }
   },
   "jump-explode": {
@@ -23,6 +29,12 @@
     "download": {
       "has": true,
       "url": "https://dev.bukkit.org/projects/minecraft-but-you-cant-touch-common-blocks/files/latest"
+    },
+    "image": {
+      "has": false
+    },
+    "invite": {
+      "has": false
     }
   },
   "lava-rising": {
@@ -36,6 +48,129 @@
     "download": {
       "has": true,
       "url": "https://github.com/OutcastsEvents/LavaRises/releases"
+    },
+    "image": {
+      "has": false
+    },
+    "invite": {
+      "has": false
+    }
+  },
+  "water-rising": {
+    "id": 4,
+    "name": "Water Rising",
+    "description": "This project is a customisable Minecraft Java plugin that causes water to rise by a specified amount whenever you run a command and gives players hunger when they are under the water.",
+    "video": {
+      "has": true,
+      "url": "https://www.youtube.com/embed/OZptg9Sffk0?si=UDA3WCEUpl7aPhTZ"
+    },
+    "download": {
+      "has": true,
+      "url": "https://github.com/OutcastsEvents/WaterRises/releases"
+    },
+    "image": {
+      "has": false
+    },
+    "invite": {
+      "has": false
+    }
+  },
+  "animal-capture": {
+    "id": 5,
+    "name": "Animal Capture",
+    "description": "This project is a Minecraft Java plugin that puts two teams head-to-head in a race to capture as many animals, and gain as many points, as they can.",
+    "video": {
+      "has": true,
+      "url": "https://www.youtube.com/embed/md3Jr7o-muk?si=eHrp3aX8vghzIGvj"
+    },
+    "download": {
+      "has": true,
+      "url": "https://github.com/OutcastsEvents/AnimalCapture/releases"
+    },
+    "image": {
+      "has": false
+    },
+    "invite": {
+      "has": false
+    }
+  },
+  "outcasts-finale": {
+    "id": 6,
+    "name": "Outcasts Finale",
+    "description": "This project is a Minecraft Java plugin that adds new custom items to the game that the Outcasters came up with, each with custom crafting recipies and abilities.",
+    "video": {
+      "has": true,
+      "url": {
+        "yrrah": "https://www.youtube.com/embed/3foEooqOzi4?si=KtqAIQApUrOdZkZh",
+        "astelina": "https://www.youtube.com/embed/AXNnBcWiP4c?si=coHwyg-da8wC9bHK"
+      }
+    },
+    "download": {
+      "has": true,
+      "url": "https://github.com/OutcastsEvents/OutcastsFinale/releases"
+    },
+    "image": {
+      "has": false
+    },
+    "invite": {
+      "has": false
+    }
+  },
+  "recording-indicator": {
+    "id": 7,
+    "name": "Recording Indicator",
+    "description": "This project is a Minecraft Java plugin that adds a simple indicator on the tab list to display if a user is live or recording.",
+    "video": {
+      "has": false
+    },
+    "download": {
+      "has": true,
+      "url": "https://github.com/AcronicalYT/RecordingIndicator/releases"
+    },
+    "image": {
+      "has": true,
+      "url": "https://photos.acronical.uk/images/2024/12/09/recording-indicator-icon.jpg"
+    },
+    "invite": {
+      "has": false
+    }
+  },
+  "yrrah-birthday": {
+    "id": 8,
+    "name": "Yrrah's Birthday",
+    "description": "This is a plugin made for Yrrah's birthday where the goal is to craft and deposit as many cakes as possible with ingredients from around the map.",
+    "video": {
+      "has": true,
+      "url": "https://www.youtube.com/embed/6g1GjiLT-ls?si=dydA0kGz4lODYRKg"
+    },
+    "download": {
+      "has": true,
+      "url": "https://github.com/AcronicalYT/YrrahBirthdayEvent/releases"
+    },
+    "image": {
+      "has": false
+    },
+    "invite": {
+      "has": false
+    }
+  },
+  "jst-bot": {
+    "id": 9,
+    "name": "JST Discord Bot",
+    "description": "This is a fully-featured, multipurpose Discord bot with everything from moderation to management.",
+    "video": {
+      "has": false
+    },
+    "download": {
+      "has": false
+    },
+    "image": {
+      "has": true,
+      "url": "https://photos.acronical.uk/images/2024/12/09/jst-logo.jpg"
+    },
+    "invite": {
+      "has": true,
+      "url": "https://jst.acronical.uk"
     }
   }
 }
