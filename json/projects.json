@@ -3,6 +3,7 @@
     "id": 1,
     "name": "Common Blocks Kill You",
     "description": "This project is a Minecraft Java plugin that causes you to die if you touch grass, netherrack or end stone.",
+    "type": "video-plugin",
     "video": {
       "has": true,
       "url": "https://www.youtube.com/embed/UIf3Qck4Fl4?si=AELBBdlXE1ClTlCm"
@@ -22,6 +23,7 @@
     "id": 2,
     "name": "You Jump You Explode",
     "description": "This project is a Minecraft Java plugin that causes an explosion underneath you whenever you jump.",
+    "type": "video-plugin",
     "video": {
       "has": true,
       "url": "https://www.youtube.com/embed/CJMgzFuOpFU?si=CzXD49639b8Gft5P"
@@ -41,6 +43,7 @@
     "id": 3,
     "name": "Lava Rising",
     "description": "This project is a customisable Minecraft Java plugin that causes lava to rise by a specified amount whenever you run a command.",
+    "type": "video-plugin",
     "video": {
       "has": true,
       "url": "https://www.youtube.com/embed/1GpwnZ3_ZbY?si=MTwJbHcLMbFy48SO"
@@ -60,6 +63,7 @@
     "id": 4,
     "name": "Water Rising",
     "description": "This project is a customisable Minecraft Java plugin that causes water to rise by a specified amount whenever you run a command and gives players hunger when they are under the water.",
+    "type": "video-plugin",
     "video": {
       "has": true,
       "url": "https://www.youtube.com/embed/OZptg9Sffk0?si=UDA3WCEUpl7aPhTZ"
@@ -79,6 +83,7 @@
     "id": 5,
     "name": "Animal Capture",
     "description": "This project is a Minecraft Java plugin that puts two teams head-to-head in a race to capture as many animals, and gain as many points, as they can.",
+    "type": "video-plugin",
     "video": {
       "has": true,
       "url": "https://www.youtube.com/embed/md3Jr7o-muk?si=eHrp3aX8vghzIGvj"
@@ -98,6 +103,7 @@
     "id": 6,
     "name": "Outcasts Finale",
     "description": "This project is a Minecraft Java plugin that adds new custom items to the game that the Outcasters came up with, each with custom crafting recipies and abilities.",
+    "type": "video-plugin",
     "video": {
       "has": true,
       "url": {
@@ -120,6 +126,7 @@
     "id": 7,
     "name": "Recording Indicator",
     "description": "This project is a Minecraft Java plugin that adds a simple indicator on the tab list to display if a user is live or recording.",
+    "type": "plugin",
     "video": {
       "has": false
     },
@@ -139,6 +146,7 @@
     "id": 8,
     "name": "Yrrah's Birthday",
     "description": "This is a plugin made for Yrrah's birthday where the goal is to craft and deposit as many cakes as possible with ingredients from around the map.",
+    "type": "video-plugin",
     "video": {
       "has": true,
       "url": "https://www.youtube.com/embed/6g1GjiLT-ls?si=dydA0kGz4lODYRKg"
@@ -158,6 +166,7 @@
     "id": 9,
     "name": "JST Discord Bot",
     "description": "This is a fully-featured, multipurpose Discord bot with everything from moderation to management.",
+    "type": "discord-bot",
     "video": {
       "has": false
     },
