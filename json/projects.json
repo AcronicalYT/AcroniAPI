@@ -106,7 +106,8 @@
     "type": "video-plugin",
     "video": {
       "has": true,
-      "url": {
+      "url": "https://www.youtube.com/embed/3foEooqOzi4?si=KtqAIQApUrOdZkZh",
+      "selection": {
         "yrrah": "https://www.youtube.com/embed/3foEooqOzi4?si=KtqAIQApUrOdZkZh",
         "astelina": "https://www.youtube.com/embed/AXNnBcWiP4c?si=coHwyg-da8wC9bHK"
       }
