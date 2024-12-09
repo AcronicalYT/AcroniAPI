@@ -1,0 +1,41 @@
+{
+  "common-blocks": {
+    "id": 1,
+    "name": "Common Blocks Kill You",
+    "description": "This project is a Minecraft Java plugin that causes you to die if you touch grass, netherrack or end stone.",
+    "video": {
+      "has": true,
+      "url": "https://www.youtube.com/embed/UIf3Qck4Fl4?si=AELBBdlXE1ClTlCm"
+    },
+    "download": {
+      "has": true,
+      "url": "https://dev.bukkit.org/projects/minecraft-but-you-cant-touch-common-blocks/files/latest"
+    }
+  },
+  "jump-explode": {
+    "id": 2,
+    "name": "You Jump You Explode",
+    "description": "This project is a Minecraft Java plugin that causes an explosion underneath you whenever you jump.",
+    "video": {
+      "has": true,
+      "url": "https://www.youtube.com/embed/CJMgzFuOpFU?si=CzXD49639b8Gft5P"
+    },
+    "download": {
+      "has": true,
+      "url": "https://dev.bukkit.org/projects/minecraft-but-you-cant-touch-common-blocks/files/latest"
+    }
+  },
+  "lava-rising": {
+    "id": 3,
+    "name": "Lava Rising",
+    "description": "This project is a customisable Minecraft Java plugin that causes lava to rise by a specified amount whenever you run a command.",
+    "video": {
+      "has": true,
+      "url": "https://www.youtube.com/embed/1GpwnZ3_ZbY?si=MTwJbHcLMbFy48SO"
+    },
+    "download": {
+      "has": true,
+      "url": "https://github.com/OutcastsEvents/LavaRises/releases"
+    }
+  }
+}
