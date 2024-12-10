@@ -73,7 +73,7 @@
   },
   "playhire": {
     "entity": "PlayHire",
-    "description": "Currently a Moderator in his Twitch channel, and an Admin in his Discord server.",
+    "description": "Discord bot developer to add custom features for them.",
     "start": "2024",
     "end": "Present",
     "left": false,
