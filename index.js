@@ -17,7 +17,7 @@ app.get('/projects', (req, res) => {
 });
 
 app.get('/experience', (req, res) => {
-    res.json(data.experience);
+    res.json(experience);
 });
 
 app.listen(PORT, () => {
