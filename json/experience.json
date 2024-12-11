@@ -1,4 +1,9 @@
 {
+  "site": {
+    "entity": "This Site",
+    "description": "This site has been a great experience for me to learn more about web development including an API, and to showcase my projects.",
+    "link": "https://www.acronical.uk"
+  },
   "yrrah": {
     "entity": "Yrrah",
     "description": "Currently the Head Admin of his Discord server, Moderator for streams, and developed a custom bot for his server.",
