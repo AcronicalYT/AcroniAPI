@@ -7,8 +7,7 @@ Nope, it just does lol
 # Can I use this for my own stuff?
 As everything I put on here will be public and not sensitive, you may utilise this information provided I am mentioned with a reason to use the data.
 
-# Where is the endpoint?
-Right now there isn't one, but I have three possibilities:
+# Where are the endpoints?
 - https://api.acronical.uk
 - https://api.acronical.co.uk
 - https://api.acronical.is-a.dev
