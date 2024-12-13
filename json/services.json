@@ -1,0 +1,12 @@
+{
+    "yrrahbot": {
+        "name": "YrrahBot",
+        "uptimeURL": "https://yrrahbot.yrrah.live/uptime",
+        "online": true
+    },
+    "jstbot": {
+        "name": "JST Discord Bot",
+        "uptimeURL": "http://fi2.bot-hosting.net:20565/uptime",
+        "online": true
+    }
+}
