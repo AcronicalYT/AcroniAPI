@@ -2,11 +2,25 @@
     "yrrahbot": {
         "name": "YrrahBot",
         "uptimeURL": "https://yrrahbot.yrrah.live/uptime",
+        "altUptimeURL": "https://yrrahbot.yrrah.live/uptime",
         "online": true
     },
     "jstbot": {
         "name": "JST Discord Bot",
-        "uptimeURL": "http://fi2.bot-hosting.net:20565/uptime",
+        "uptimeURL": "https://jststatus.acronical.uk/uptime",
+        "altUptimeURL": "https://jststatus.acronical.co.uk/uptime",
+        "online": true
+    },
+    "nocwarebot": {
+        "name": "Nocware's Bot",
+        "uptimeURL": "https://nocwarestatus.acronical.uk/uptime",
+        "altUptimeURL": "https://nocwarestatus.acronical.co.uk/uptime",
+        "online": true
+    },
+    "playhirebot": {
+        "name": "Playhire's Bot",
+        "uptimeURL": "https://playhirestatus.acronical.uk/uptime",
+        "altUptimeURL": "https://playhirestatus.acronical.co.uk/uptime",
         "online": true
     }
 }
