@@ -21,6 +21,6 @@
         "name": "Playhire's Bot",
         "uptimeURL": "https://playhirestatus.acronical.uk/uptime",
         "altUptimeURL": "https://playhirestatus.acronical.co.uk/uptime",
-        "online": true
+        "online": false
     }
 }
