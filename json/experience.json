@@ -81,11 +81,21 @@
     "description": "Discord bot developer to add custom features for them.",
     "start": "2024",
     "end": "2025",
-    "left": false,
+    "left": true,
     "images": {
       "logo": "https://photos.acronical.uk/images/2024/12/09/playhire-icon.png",
       "banner": "https://photos.acronical.uk/images/2024/12/09/playhire-bg.png"
     },
     "link": "https://www.discord.gg/pzWrmVXmTM"
-  }
+  },
+  "buffsmp": {
+    "entity": "Buff SMP",
+    "description": "Developed the main plugin for their Minecraft SMP",
+    "start": "2025",
+    "end": "Present",
+    "left": false,
+    "images": {
+      "logo": "https://photos.acronical.uk/images/2025/03/27/buffsmp.png",
+      "banner": null
+    }
 }
