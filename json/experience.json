@@ -1,4 +1,9 @@
 {
+  "site": {
+    "entity": "This Site",
+    "description": "This site has been a great experience for me to learn more about web development including an API, and to showcase my projects.",
+    "link": "https://www.acronical.uk"
+  },
   "yrrah": {
     "entity": "Yrrah",
     "description": "Currently the Head Admin of his Discord server, Moderator for streams, and developed a custom bot for his server.",
@@ -73,14 +78,25 @@
   },
   "playhire": {
     "entity": "PlayHire",
-    "description": "Currently a Moderator in his Twitch channel, and an Admin in his Discord server.",
+    "description": "Discord bot developer to add custom features for them.",
     "start": "2024",
-    "end": "Present",
-    "left": false,
+    "end": "2025",
+    "left": true,
     "images": {
       "logo": "https://photos.acronical.uk/images/2024/12/09/playhire-icon.png",
       "banner": "https://photos.acronical.uk/images/2024/12/09/playhire-bg.png"
     },
     "link": "https://www.discord.gg/pzWrmVXmTM"
+  },
+  "buffsmp": {
+    "entity": "Buff SMP",
+    "description": "Developed the main plugin for their Minecraft SMP",
+    "start": "2025",
+    "end": "Present",
+    "left": false,
+    "images": {
+      "logo": "https://photos.acronical.uk/images/2025/03/27/buffsmp.png",
+      "banner": null
+    }
   }
 }

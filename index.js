@@ -5,6 +5,7 @@ const cors = require('cors');
 const data = require('./json/default.json');
 const projects = require('./json/projects.json');
 const experience = require('./json/experience.json');
+const services = require('./json/services.json');
 
 app.use(cors());
 
@@ -17,7 +18,11 @@ app.get('/projects', (req, res) => {
 });
 
 app.get('/experience', (req, res) => {
-    res.json(data.experience);
+    res.json(experience);
+});
+
+app.get('/services', (req, res) => {
+    res.json(services);
 });
 
 app.listen(PORT, () => {
