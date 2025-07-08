@@ -1,14 +1,26 @@
 {
-    "yrrahbot": {
-        "name": "YrrahBot",
-        "uptimeURL": "https://yrrahbot.yrrah.live/uptime",
-        "altUptimeURL": "https://yrrahbot.yrrah.live/uptime",
-        "online": true
-    },
     "jstbot": {
         "name": "JST Discord Bot",
         "uptimeURL": "https://jststatus.acronical.uk/uptime",
         "altUptimeURL": "https://jststatus.acronical.co.uk/uptime",
+        "online": true
+    },
+    "synapsebot": {
+        "name": "Synapse",
+        "uptimeURL": "https://synapse-uptime.acronical.uk",
+        "altUptimeURL": "https://synapse-uptime.acronical.uk",
+        "online": true
+    },
+    "easyticketsbot": {
+        "name": "Easy Tickets",
+        "uptimeURL": "https://easytickets-uptime.acronical.uk",
+        "altUptimeURL": "https://easytickets.acronical.uk",
+        "online": true
+    },
+    "yrrahbot": {
+        "name": "YrrahBot",
+        "uptimeURL": "https://yrrahbot.acronical.uk/uptime",
+        "altUptimeURL": "https://yrrahbot.acronical.uk/uptime",
         "online": true
     },
     "nocwarebot": {
