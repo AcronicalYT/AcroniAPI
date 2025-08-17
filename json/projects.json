@@ -127,5 +127,15 @@
     "invite": {
       "has": false
     }
+  },
+  "teli-studios": {
+    "id": 11,
+    "name": "Teli Studios",
+    "descrtiption": "My new indie game studio founded by me and a friend.",
+    "type": "project",
+    "link": {
+      "has": true,
+      "url": "https://www.teli.games"
+    }
   }
 }

@@ -2,6 +2,7 @@ const express = require('express');
 const app = express();
 const PORT = 3001;
 const cors = require('cors');
+
 const data = require('./json/default.json');
 const projects = require('./json/projects.json');
 const experience = require('./json/experience.json');
