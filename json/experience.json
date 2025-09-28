@@ -30,10 +30,10 @@
   },
   "meyerhold": {
     "entity": "Meyerhold",
-    "description": ".",
+    "description": "Was a twitch mod, and still a good friend.",
     "start": "2024",
-    "end": "Present",
-    "left": false,
+    "end": "2025",
+    "left": true,
     "images": {
       "logo": "https://photos.acronical.uk/images/2024/12/09/meyerhold-icon.png",
       "banner": null
@@ -66,10 +66,10 @@
   },
   "feather": {
     "entity": "Feather",
-    "description": "Currently an Admin at the staff team for Feather Client.",
+    "description": "Previously an Admin at the staff team for Feather Client.",
     "start": "2024",
-    "end": "Present",
-    "left": false,
+    "end": "2025",
+    "left": true,
     "images": {
       "logo": "https://photos.acronical.uk/images/2024/12/09/feather-icon.png",
       "banner": "https://photos.acronical.uk/images/2024/12/09/feather-bg.png"
