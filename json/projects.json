@@ -137,5 +137,15 @@
       "has": true,
       "url": "https://www.teli.games"
     }
+  },
+  "acronicore-spigot": {
+    "id": 12,
+    "name": "AcroniCore Spigot",
+    "description": "Useful, performant, and safe core libraries to assist in Minecraft plugin development.",
+    "type": "project",
+    "link": {
+      "has": true,
+      "link": "https://github.com/AcronicalYT/AcroniCore-Spigot"
+    }
   }
 }
