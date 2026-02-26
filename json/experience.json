@@ -6,7 +6,7 @@
   },
   "yrrah": {
     "entity": "Yrrah",
-    "description": "Currently the Head Admin of his Discord server, Moderator for streams, and developed a custom bot for his server.",
+    "description": "Currently the Head Admin of his Discord server, and developed a custom bot for his server.",
     "start": "2021",
     "end": "Present",
     "left": false,
@@ -56,8 +56,8 @@
     "entity": "Nocware",
     "description": "Discord bot developer to add custom features for them.",
     "start": "2024",
-    "end": "Present",
-    "left": false,
+    "end": "2026",
+    "left": true,
     "images": {
       "logo": "https://photos.acronical.uk/images/2024/12/09/nocware-icon.webp",
       "banner": null
@@ -90,7 +90,7 @@
   },
   "buffsmp": {
     "entity": "Buff SMP",
-    "description": "Developed the main plugin for their Minecraft SMP",
+    "description": "Developed the main plugin & events for their Minecraft SMP",
     "start": "2025",
     "end": "Present",
     "left": false,
