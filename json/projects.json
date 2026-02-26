@@ -145,7 +145,7 @@
     "type": "project",
     "link": {
       "has": true,
-      "link": "https://github.com/AcronicalYT/AcroniCore-Spigot"
+      "url": "https://github.com/AcronicalYT/AcroniCore-Spigot"
     }
   }
 }
