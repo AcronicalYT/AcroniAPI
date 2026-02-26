@@ -9,8 +9,6 @@ As everything I put on here will be public and not sensitive, you may utilise th
 
 # Where are the endpoints?
 - https://api.acronical.uk
-- https://api.acronical.co.uk
-- https://api.acronical.is-a.dev
 
 # Why am I still reading this?
 Idk, but you should 100% support me on my Ko-Fi page!!! 

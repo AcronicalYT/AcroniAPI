@@ -2,13 +2,13 @@
     "jstbot": {
         "name": "JST Discord Bot",
         "uptimeURL": "https://jststatus.acronical.uk/uptime",
-        "altUptimeURL": "https://jststatus.acronical.co.uk/uptime",
+        "altUptimeURL": "https://jststatus.acronical.uk/uptime",
         "online": true
     },
     "synapsebot": {
         "name": "Synapse",
         "uptimeURL": "https://synapse-uptime.acronical.uk",
-        "altUptimeURL": "https://synapse-uptime.acronical.uk",
+        "altUptimeURL": "https://synapse.acronical.uk",
         "online": true
     },
     "easyticketsbot": {
@@ -26,13 +26,13 @@
     "nocwarebot": {
         "name": "Nocware's Bot",
         "uptimeURL": "https://nocwarestatus.acronical.uk/uptime",
-        "altUptimeURL": "https://nocwarestatus.acronical.co.uk/uptime",
-        "online": true
+        "altUptimeURL": "https://nocwarestatus.acronical.uk/uptime",
+        "online": false
     },
     "playhirebot": {
         "name": "Playhire's Bot",
         "uptimeURL": "https://playhirestatus.acronical.uk/uptime",
-        "altUptimeURL": "https://playhirestatus.acronical.co.uk/uptime",
+        "altUptimeURL": "https://playhirestatus.acronical.uk/uptime",
         "online": false
     }
 }
