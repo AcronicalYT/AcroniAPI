@@ -7,9 +7,6 @@
     "download": {
       "has": true,
       "url": "https://dev.bukkit.org/projects/minecraft-but-you-cant-touch-common-blocks/files/latest"
-    },
-    "invite": {
-      "has": false
     }
   },
   "jump-explode": {
@@ -20,9 +17,6 @@
     "download": {
       "has": true,
       "url": "https://dev.bukkit.org/projects/minecraft-but-you-cant-touch-common-blocks/files/latest"
-    },
-    "invite": {
-      "has": false
     }
   },
   "lava-rising": {
@@ -33,9 +27,6 @@
     "download": {
       "has": true,
       "url": "https://github.com/OutcastsEvents/LavaRises/releases"
-    },
-    "invite": {
-      "has": false
     }
   },
   "water-rising": {
@@ -46,9 +37,6 @@
     "download": {
       "has": true,
       "url": "https://github.com/OutcastsEvents/WaterRises/releases"
-    },
-    "invite": {
-      "has": false
     }
   },
   "animal-capture": {
@@ -59,9 +47,6 @@
     "download": {
       "has": true,
       "url": "https://github.com/OutcastsEvents/AnimalCapture/releases"
-    },
-    "invite": {
-      "has": false
     }
   },
   "outcasts-finale": {
@@ -72,9 +57,6 @@
     "download": {
       "has": true,
       "url": "https://github.com/OutcastsEvents/OutcastsFinale/releases"
-    },
-    "invite": {
-      "has": false
     }
   },
   "recording-indicator": {
@@ -85,9 +67,6 @@
     "download": {
       "has": true,
       "url": "https://github.com/AcronicalYT/RecordingIndicator/releases"
-    },
-    "invite": {
-      "has": false
     }
   },
   "yrrah-birthday": {
@@ -98,9 +77,6 @@
     "download": {
       "has": true,
       "url": "https://github.com/AcronicalYT/YrrahBirthdayEvent/releases"
-    },
-    "invite": {
-      "has": false
     }
   },
   "jst-bot": {
@@ -108,10 +84,7 @@
     "name": "JST Discord Bot",
     "description": "This is a fully-featured, multipurpose Discord bot with everything from moderation to management.",
     "type": "discord-bot",
-    "download": {
-      "has": false
-    },
-    "invite": {
+    "link": {
       "has": true,
       "url": "https://jst.acronical.uk"
     }
@@ -121,21 +94,19 @@
     "name": "BuffCore",
     "description": "The main plugin utilised by the Buff SMP. It has the core features of the buffs and mythic items with many other additions.",
     "type": "plugin",
-    "download": {
-      "has": false
-    },
-    "invite": {
-      "has": false
+    "link": {
+      "has": true,
+      "url": "https://discord.gg/H6XTZngCmp"
     }
   },
-  "teli-studios": {
+  "project-pastel": {
     "id": 11,
-    "name": "Teli Games",
-    "descrtiption": "My new indie game studio founded by me and a friend.",
+    "name": "Project Pastel",
+    "description": "My upcoming, debut, game developed under Teli Studios!",
     "type": "project",
     "link": {
       "has": true,
-      "url": "https://www.teli.games"
+      "url": "https://www.teli.games/project-pastel"
     }
   },
   "acronicore-spigot": {
@@ -145,7 +116,7 @@
     "type": "project",
     "link": {
       "has": true,
-      "url": "https://github.com/AcronicalYT/AcroniCore-Spigot"
+      "url": "https://www.github.com/AcronicalYT/AcroniCore-Spigot"
     }
   }
 }

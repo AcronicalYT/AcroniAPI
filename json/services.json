@@ -1,8 +1,8 @@
 {
     "jstbot": {
         "name": "JST Discord Bot",
-        "uptimeURL": "https://jststatus.acronical.uk/uptime",
-        "altUptimeURL": "https://jststatus.acronical.uk/uptime",
+        "uptimeURL": "https://jststatus.acronical.uk/",
+        "altUptimeURL": "https://jst.acronical.uk/",
         "online": true
     },
     "synapsebot": {

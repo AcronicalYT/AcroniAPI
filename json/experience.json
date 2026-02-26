@@ -99,5 +99,13 @@
       "banner": null
     },
     "link": "https://www.discord.gg/XbCbaUFgef/"
+  },
+  "teli-studios": {
+    "entity": "Teli Games",
+    "description": "My new indie game studio founded by me and a friend.",
+    "start": "2025",
+    "end": "Present",
+    "left": false,
+    "link": "https://www.teli.games"
   }
 }
