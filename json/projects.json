@@ -118,5 +118,11 @@
       "has": true,
       "url": "https://www.github.com/AcronicalYT/AcroniCore-Spigot"
     }
+  },
+  "relay": {
+    "id": 13,
+    "name": "Relay",
+    "description": "A very early stage software designed for developers to manage servers and hot-reload plugins with ease.",
+    "type": "project"
   }
 }
