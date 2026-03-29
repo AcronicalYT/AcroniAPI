@@ -84,7 +84,6 @@
     "description": "Developer & configurator for Crownsfall SMP.",
     "start": "2025",
     "end": "Present",
-    "left": false,
-    "link": "https://www.crownsfall.com"
+    "left": false
   }
 }
